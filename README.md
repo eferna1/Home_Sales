@@ -3,10 +3,9 @@
 ## Overview
 ### In this module I will use SparkSQL to determine key metrics about home sales data.   I will use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached. 
 
-### I will import home_sales_revised.csv data into a Spark DataFrame called home_sales.  
-
 ## Instructions
-### Using SparkSQL we will answer the following questions: 
+### I will import home_sales_revised.csv data into a Spark DataFrame called home_sales.  Using SparkSQL I will answer the following questions:
+
 1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 ![image](https://github.com/eferna1/Home_Sales/assets/145945547/79ab8ca5-939f-4f99-ae3f-e970d79c8213)
 
